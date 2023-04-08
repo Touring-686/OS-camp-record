@@ -21,7 +21,7 @@
 
 
 
-##### DAY2 (4.3)
+##### DAY3 (4.3)
 
 * THU-rust-course L2 
 * rust 语言圣经 2.1 -2.2 2.4
@@ -29,7 +29,17 @@
 
 ##### (4.4 -4.5)
 
+* 无进度
 
+##### DAY4 (4.6)
+
+* THU-rust-course L3
+* rust 语言圣经
+* rustling 2.3 ,2.6
+
+##### DAY5 - DAY6(4.7 - 4.8)
+
+* rustlings 54 / 94
 
 
 
