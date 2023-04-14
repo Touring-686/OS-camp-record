@@ -7,12 +7,12 @@
 
 ## 学习纪录
 
-##### DAY1 (4.1)
+##### 4.1
 
 * THU-rust-course L1
 * rustlings 6/94
 
-##### DAY2 (4.2)
+##### 4.2
 
 * THU-rust-course L2 所有权
 * rustlings 17/94
@@ -21,25 +21,41 @@
 
 
 
-##### DAY3 (4.3)
+##### 4.3
 
 * THU-rust-course L2 
 * rust 语言圣经 2.1 -2.2 2.4
 * ruslings 23/94
 
-##### (4.4 -4.5)
+##### 4.4 -4.5
 
 * 无进度
 
-##### DAY4 (4.6)
+##### 4.6
 
 * THU-rust-course L3
 * rust 语言圣经
 * rustling 2.3 ,2.6
 
-##### DAY5 - DAY6(4.7 - 4.8)
+##### 4.7 - 4.8
 
 * rustlings 54 / 94
+
+##### 4.9
+
+* 无进度
+
+##### 4.10
+
+* THU-rust-course L4
+
+##### 4.11 -4.14
+
+* rustling 94/94
+
+
+
+
 
 
 
